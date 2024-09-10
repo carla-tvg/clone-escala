@@ -1,0 +1,118 @@
+/*karol*/
+
+body{
+  background-color: #a9cae7
+}
+
+.video-container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #a9cae7; /* Very light blue background */
+  border: 1px solid #ddd;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.video-container video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.title {
+  font-size: 36px;
+  font-weight: bold;
+  color: #032B44; /* Dark blue color */
+  margin-bottom: 20px;
+  text-align: center; /* Center the title */
+}
+
+.subtitle {
+  font-size: 24px;
+  color: #032B44; /* Dark blue color */
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+body {
+  background-color: #caf1f3 /* Very light blue background */
+}
+
+h1 { /* Add styles for the main title */
+  text-align: center; /* Center the main title */
+  color: #032B44; /* Dark blue color */
+}
+
+
+/*tatiana*/
+
+.form-container {
+    width: 500px;
+    height: 600px;
+    border-radius: 15px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    margin: 0 auto;
+  }
+  
+  .form-container h1 {
+    font-size: 1.5rem;
+  }
+  
+  .form-container .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .form-container .form-control {
+    border: none;
+    border-bottom: 1px solid #ddd;
+    border-radius: 0;
+    box-shadow: none;
+    padding: 0.5rem 0;
+    margin-bottom: 0.5rem;
+  }
+  
+  .form-container .form-control:focus {
+    border-bottom-color: #007bff;
+    box-shadow: none;
+    outline: none;
+  }
+  
+  .form-container .btn {
+    width: 100%;
+    background-color: #FFA500;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .form-container .btn:hover {
+    background-color: #e59400;
+  }
+  
+  .form-container select.form-control {
+    border: none;
+    border-bottom: 1px solid #ddd;
+    border-radius: 0;
+    padding: 0.5rem 0;
+    margin-bottom: 0.5rem;
+  }
+  
+  .form-container select.form-control:focus {
+    border-bottom-color: #007bff;
+    box-shadow: none;
+    outline: none;
+  }
+  
+  /*carla*/
+
+  .contact-link {
+    margin-left: 20px;
+}
+
+
+.no-margin {
+    margin-bottom: 0 ;
+}
